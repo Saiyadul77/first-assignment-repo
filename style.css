@@ -1,4 +1,5 @@
 body{
+    
 
 }
 .first-slide{
@@ -13,14 +14,24 @@ body{
 }
 h1{
     font-size: 60px;
+    font-family: Verdana, sans-serif;
 
 }
 h2{
     font-size: 50px;
     text-align: center;
+    font-family: Verdana, sans-serif;
 }
 h3{
     font-size: 40px ;
+    font-family: Verdana, sans-serif;
+}
+h4{
+    font-size: 30px;
+    font-family: "Sofia", sans-serif;
+}
+section{
+    margin-bottom: 100px;
 }
 .flowerblue-color{
     color: cornflowerblue;
@@ -65,9 +76,23 @@ h3{
     padding-right: 10px;
     border-radius: 10px;
 }
-.develop-without-limit{
-    background-image: url(images/dream-bg.png);
+#develop-without-limit{
+    background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 5%;
+    background-size: 15%;
+}
+#global-community{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 15%;
+    margin-right: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
 }
