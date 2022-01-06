@@ -15,20 +15,24 @@ body{
 h1{
     font-size: 60px;
     font-family: Verdana, sans-serif;
+    line-height: 80%;
 
 }
 h2{
     font-size: 50px;
     text-align: center;
     font-family: Verdana, sans-serif;
+    
 }
 h3{
     font-size: 40px ;
     font-family: Verdana, sans-serif;
+    line-height: 80%;
 }
 h4{
     font-size: 30px;
     font-family: "Sofia", sans-serif;
+    
 }
 section{
     margin-bottom: 100px;
@@ -100,4 +104,5 @@ footer{
     text-align: center;
     padding-top: 15px;
     padding-bottom: 25px;
+    line-height: 20%;
 }
