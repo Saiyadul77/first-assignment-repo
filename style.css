@@ -19,6 +19,9 @@ h2{
     font-size: 50px;
     text-align: center;
 }
+h3{
+    font-size: 40px ;
+}
 .flowerblue-color{
     color: cornflowerblue;
 }
@@ -61,4 +64,10 @@ h2{
     padding-left: 30px;
     padding-right: 10px;
     border-radius: 10px;
+}
+.develop-without-limit{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 5%;
 }
