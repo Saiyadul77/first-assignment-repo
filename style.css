@@ -1,0 +1,64 @@
+body{
+
+}
+.first-slide{
+    display: flex;
+}
+.width-size{
+    width: 100%;
+    padding-left: 5%;
+}
+.width-size img{
+    width: 60%;
+}
+h1{
+    font-size: 60px;
+
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+.flowerblue-color{
+    color: cornflowerblue;
+}
+.mission{
+    border-left: 7px solid tomato;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+}
+#mission{
+    background-color: honeydew;
+    box-shadow: initial;
+    width:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+#vission{
+    background-color: lightyellow;
+    box-shadow: initial;
+    width:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+#goals{
+    background-color: linen;
+    width:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
